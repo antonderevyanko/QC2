@@ -1,0 +1,8 @@
+gradlew
+gradlew.bat
+local.properties
+QC2Project.iml
+.idea/
+gradle/
+QC2/build/
+QC2/QC2.iml
